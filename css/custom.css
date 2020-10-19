@@ -1,0 +1,45 @@
+.firstbg {
+	background: url("../img/1.png");
+	background-size: cover;
+	opacity: 0.5;
+	height: 1157px;
+}
+.color	{
+	background-color: #330048;
+	height: 1157px;
+}
+.graph {
+	height: 500px;
+	background-size: cover;
+	background-color: grey;
+}
+.text {
+	height: 500px;
+	background-size: cover;
+	background-color: blue;
+}
+.process {
+	background-color: white;
+	height: 1157px;
+}
+.space {
+	background-color: grey;
+	height: 92px;
+}
+.color2	{
+	background-color: #191919;
+	height: 1122px;
+}
+.services {
+	background-image: url("../img/2.png");
+	background-size: cover;
+	height: 1122px;
+	opacity: 0.5;
+}
+.nextstep {
+	background-color: #141819;
+	height: 1022px;
+}
+footer {
+	height: 525px;
+}
